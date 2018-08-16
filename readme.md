@@ -8,3 +8,4 @@ To run the application, Do the following steps.
 3. react-native run-android
 ```
 
+You can download the APK from [here](https://github.com/2010abinas/Calculator_App/blob/master/Calculator.apk)
